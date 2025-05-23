@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Docker persistent data
+mysql_data/
+postgres_data/
+mongo_data/
+pgadmin_data/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
